@@ -1,0 +1,6 @@
+{
+  "name": "인공지능 퍼셉트론 학습 시뮬레이터",
+  "description": "고등학교 정보과 교육용 퍼셉트론 가중치 수정 과정 시뮬레이션 및 결정 경계 가시화 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
